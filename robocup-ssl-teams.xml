@@ -176,4 +176,12 @@
 			149.000000
 		</Var>
 	</Var>
+	<Var name="VSSL" type="list">
+		<Var name="Team Name" type="string">
+			VSSL
+		</Var>
+		<Var name="Robot Height (mm)" type="double" minval="" maxval="">
+			80.000000
+		</Var>
+	</Var>
 </VarXML>
